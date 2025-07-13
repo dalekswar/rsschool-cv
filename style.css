@@ -17,8 +17,8 @@ body {
   header, footer {
     text-align: center;
     padding: 20px;
-    background-color: #222;
-    color: white;
+    background-color: #e2eaa4;
+    color: rgb(62, 60, 60);
   }
   
   nav ul {
@@ -31,7 +31,7 @@ body {
   }
   
   nav ul li a {
-    color: white;
+    color: rgb(84, 79, 79);
     text-decoration: none;
   }
   
