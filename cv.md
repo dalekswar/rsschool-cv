@@ -29,5 +29,9 @@ _2025 – present_
 
 ---
 
+## 🌐 Languages
+
+- English — Upper-Intermediate  
+- Russian — Native
 
 
